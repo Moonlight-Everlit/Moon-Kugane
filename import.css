@@ -360,22 +360,6 @@ html #app-mount .container-2nx-BQ.checked-25WXMf .slider-32CRPX[style*="left: 12
 .winButtonMinMax-3RsPUg:last-child {
   margin-top: 10px !important;
 }
-.winButtonClose-3Q8ZH5 > svg {
-  background-image: url(https://github.com/AI-ien/macos-titlebar/raw/main/assets/titlebutton-close%402.png) !important;
-  background-size: contain !important;
-}
-.winButtonClose-3Q8ZH5 > svg > polygon {
-  display: none !important;
-  fill: transparent !important;
-}
-.winButtonMinMax-3RsPUg > svg {
-  background-image: url(https://github.com/AI-ien/macos-titlebar/raw/main/assets/titlebutton-maximize%402.png) !important;
-  background-size: contain !important;
-}
-.winButtonMinMax-3RsPUg:last-child > svg {
-  background-image: url(https://github.com/AI-ien/macos-titlebar/raw/main/assets/titlebutton-minimize%402.png) !important;
-  background-size: contain !important;
-}
 .winButtonMinMax-3RsPUg > svg > rect {
   display: none !important;
   fill: transparent !important;
